@@ -18,7 +18,7 @@ def face_dataset():
 
     # Initialize sample face image
     count = 0
-
+#xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     # Start looping
     while(True):
 
